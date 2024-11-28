@@ -1,5 +1,5 @@
 const products = {
-    services: [
+    services:[
       {
         _id: "1",
         name: "Solo Performance",
@@ -42,7 +42,7 @@ const products = {
         ensemble: "Five-piece band",
         genres: ["Jazz", "Original Compositions"],
         price: 1200,
-        image: "/images/two_eyes.jpg",
+        image: "/images/two_eyes.jpeg",
       },
       {
         _id: "5",
@@ -56,7 +56,8 @@ const products = {
         image: "images/latin.jpg",
       },
     ],
-    themed_programs: [
+
+    events:[
       {
         _id: "101",
         name: "New Yule",
@@ -103,5 +104,6 @@ const products = {
         image: "/images/latin_fire.jpg",
       },
     ],
-  };
+}
   
+  export default products;
