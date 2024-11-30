@@ -42,7 +42,7 @@ const products = {
         ensemble: "Five-piece band",
         genres: ["Jazz", "Original Compositions"],
         price: 1200,
-        image: "/images/two_eyes.jpeg",
+        image: "/images/latin.jpg",
       },
       {
         _id: "5",
