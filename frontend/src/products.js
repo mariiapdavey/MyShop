@@ -35,26 +35,16 @@ const products = {
       },
       {
         _id: "4",
-        name: "Two Eyes Jazz",
+        name: "Two Eyes Band",
         description:
-          "A five-piece original jazz band led by Mariia, featuring compositions that blend modern jazz elements with classic undertones. Perfect for jazz lovers and creative event settings.",
+          "A vibrant five-piece band led by Mariia, seamlessly blending jazz, funk, and Latin rhythms. Featuring percussion, drums, bass, guitar, trumpet, and keys, this group brings lively energy and a touch of sophistication to any event. Perfect for parties, festivals, and creative gatherings.",
         duration: "2 hours",
-        ensemble: "Five-piece band",
+        ensemble: "Seven-piece band",
         genres: ["Jazz", "Original Compositions"],
         price: 1200,
         image: "/images/latin.jpg",
       },
-      {
-        _id: "5",
-        name: "Latin Jazz and Funk Band",
-        description:
-          "Mariia leads a Latin-inspired band that fuses jazz, funk, and lively Latin rhythms. Featuring percussion, bass, guitar, and keys, this group brings energy and spice to any event, ideal for parties and festivals.",
-        duration: "2 hours",
-        ensemble: "Five-piece band",
-        genres: ["Latin Jazz", "Funk"],
-        price: 1300,
-        image: "images/latin.jpg",
-      },
+     
     ],
 
     events:[

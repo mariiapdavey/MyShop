@@ -52,7 +52,7 @@ const ServiceScreen = () => {
 
               <ListGroup.Item>
                 <Row>
-                  <Col> Quantity </Col>
+                  <Col> Quantity </Col> 
                 </Row>
               </ListGroup.Item>
 

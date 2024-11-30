@@ -11,7 +11,7 @@ const App = () => {
     <> 
     <Router>
       <Header />
-      <main>
+      <main className="main-content">
         <Container>
           <Routes>
             <Route path="/" exact element={<HomeScreen />} />
