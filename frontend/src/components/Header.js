@@ -14,6 +14,7 @@ const Header = () => {
                 <Nav.Link href="link">Link</Nav.Link>
               </Nav>
               <Nav>
+                <Nav.Link href="Cart">Cart</Nav.Link>
                 <NavDropdown title="Profile" id="basic-nav-dropdown">
                     <NavDropdown.Item href="#action/3.1">Log in</NavDropdown.Item>
                     <NavDropdown.Item href="#action/3.2">
