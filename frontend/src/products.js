@@ -83,7 +83,7 @@ const products = {
           "Travel back to the golden age of jazz and funk with Mariia’s renditions of 70s and 80s classics, delivering a funky and groovy experience for events with a retro theme.",
         duration: "2 hours",
         price: 700,
-        image: "images/golden_groove.jpg",
+        image: "/images/golden_groove.jpg",
       },
       {
         _id: "104",
